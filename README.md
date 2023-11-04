@@ -1,10 +1,10 @@
-# Project 7 - *Jerry Aviles*
+# Project 7 - *Task*
 
-Submitted by: **Jerry Aviles**
+Submitted by: **Eric Zheng**
 
-**Calender** is an app that ... [TODO] 
+**Calender** is an app that shows upcoming tasks and deadlines.
 
-Time spent: **3.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [x] App displays a list of tasks
 - [x] Users can add tasks to the list
 - [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks	
 
@@ -27,20 +27,18 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/195253194bb14fb9bb87e6ee717bf0e3">
-      <p>Context and Summary for Video Message - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/195253194bb14fb9bb87e6ee717bf0e3">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/195253194bb14fb9bb87e6ee717bf0e3-with-play.gif">
+    <a href="https://www.loom.com/share/b7f86bea17224c7cbf54078b16f0e539">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7f86bea17224c7cbf54078b16f0e539-with-play.gif">
     </a>
   </div>
+  
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Eric Zheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
